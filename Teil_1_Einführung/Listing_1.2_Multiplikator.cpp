@@ -8,10 +8,10 @@ int main()
     // Lies zwei Zahlen ein
     cout << " Zwei ganze Zahlen eingeben: ";
     cin >> summand1 >> summand2;
-    /*berechne die Summe beider 
+    /*berechne das Produkt beider 
     Zahlen  */
-    int summe = summand1 + summand2;
+    int summe = summand1 * summand2;
     // Zeige das Ergebnis auf dem Bildschirm an
-    cout << "Summe=" << summe << '\n';
+    cout << "Produkt=" << summe << '\n';
     return 0;
 }
