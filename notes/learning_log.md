@@ -13,3 +13,4 @@
 - can't use 'cd' on .cpp, to access it must use 'cd' on the foulder above it
 ## Learned
 - g++ creates an .exe from a .cpp file
+- int a1, a2, a3; same as: int a1; int a2; int a3; (if variables have same data type)
