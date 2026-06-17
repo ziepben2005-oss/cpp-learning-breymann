@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-    int summand1 {0};
-    int summand2 {0};
-    int summand3 {0};
+    int summand1 {0}, summand2 {0}, summand3 {0};
     // Lies drei Zahlen ein
     cout << " Drei ganze Zahlen eingeben: ";
     cin >> summand1 >> summand2 >> summand3;
